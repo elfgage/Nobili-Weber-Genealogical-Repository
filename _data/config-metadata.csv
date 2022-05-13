@@ -1,12 +1,12 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
+title,Title
+creator,Creator
+date,Date Created
+description,Description
 subject,Subjects,true
 source,Source
-identifier,Source Identifier,,
-format,Format,
+identifier,Source Identifier
+format,Format
 language,Language
 transcript,Transcript
 publisher,Publisher
