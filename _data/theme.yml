@@ -81,7 +81,7 @@ bootswatch: journal
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#000000"
+text-color: "#023020"
 link-color: "#000000"
 base-font-family: Verdana # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
